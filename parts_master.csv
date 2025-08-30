@@ -1,0 +1,4 @@
+partNo,description,category1,category2,unit,pricingModel,unitPricePerKWh,unitPrice
+SGCS-E30,EMS element – Basic Functions,AFC,EMS,set,per_kwh,3.9,
+SGCS-E32,EMS: On-grid operation,BTM,EMS,set,per_kwh,3.9,
+SGDC-D45-SC02,Local main controller,"BTM, AFC",HW,set,fixed,,12000.0
